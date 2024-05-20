@@ -1,0 +1,50 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14pt;
+}
+.page{
+    border: 0px solid black;
+	width: 80%;
+	margin: 10px auto;
+	padding: 20px;
+    background-color: white;
+
+}
+ul{
+    padding: 14px;
+}
+li{
+    list-style: none; 
+    display: inline;
+}
+li a{
+    background: burlywood; 
+    color: black}
+
+.navi{
+    background: burlywood; 
+    height: 50px}
+
+.judul{
+    text-align: center;
+    background-color: white;
+}
+p{
+    text-align: justify;
+}
+.isi{
+    text-align: justify;
+    
+}
+img{
+    border-radius: 50%;
+    border-color: burlywood;
+    border: 3px solid burlywood;
+}
+footer{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: burlywood;
+
+}
